@@ -1,0 +1,2 @@
+export const SORT_BY_DATE = 'SORT_BY_DATE'
+export const SORT_BY_POST_LENGTH = 'SORT_BY_POST_LENGTH'
