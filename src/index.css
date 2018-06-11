@@ -5,6 +5,14 @@ body {
 }
 
 span.name {
-  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.twit {
+  margin-top: 10px;
+}
+
+.date {
   font-style: italic;
+  font-size: 10px;
 }

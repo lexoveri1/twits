@@ -24,6 +24,7 @@ class TwitGrid extends Component {
                         post={e.post}
                         date={e.date}
                         key={new Date(e.date)}
+
                     />
                 ))}
             </div>
